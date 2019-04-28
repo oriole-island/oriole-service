@@ -7,12 +7,12 @@ install_requires = [
 
 setup(
     name='oriole-service',
-    version='26.3.0',
+    version='29.0.3',
     description='Rapidly create services.',
     long_description=open('README.rst').read(),
     author='Eric.Zhou',
     author_email='xiaoxiang.cn@gmail.com',
-    url='https://github.com/zhouxiaoxiang/oriole-service',
+    url='https://github.com/oriole-island/oriole-service',
     packages=find_packages(),
     data_files=[('bin', ['oriole_service/modules/oc'])],
     include_package_data=True,

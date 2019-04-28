@@ -1,8 +1,6 @@
 Oriole-Service
 ==============
 
-` <https://gitter.im/oriole-service/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link>`__
-
 `【Chinese
 readme】 <https://zhouxiaoxiang.top/2019/04/19/microservice/>`__
 
