@@ -2,12 +2,12 @@ from setuptools import find_packages, setup
 
 install_requires = [
     "nameko==2.12.0",
-    "oriole>=16.2.0",
+    "oriole>=19.0.0",
 ]
 
 setup(
     name='oriole-service',
-    version='29.0.3',
+    version='30.0.0',
     description='Rapidly create services.',
     long_description=open('README.rst').read(),
     author='Eric.Zhou',
