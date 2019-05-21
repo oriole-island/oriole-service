@@ -1,11 +1,9 @@
 Oriole-Service
 ==============
 
-`【Chinese
-readme】 <https://zhouxiaoxiang.top/2019/04/19/microservice/>`__
+`【Chinese readme】 <https://zhouxiaoxiang.top/zh-cn/microservice/>`__
 
-`【English
-readme】 <https://github.com/zhouxiaoxiang/oriole-service/blob/master/README.md>`__
+`【English readme】 <https://zhouxiaoxiang.top/microservice/>`__
 
 **The Zen of oriole: speed defines the winner.**
 
