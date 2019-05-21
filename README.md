@@ -71,7 +71,7 @@ class LogService(App):
 ```
   o s
 ```
-![](https://github.com/zhouxiaoxiang/oriole-service/raw/master/docs/run.gif)
+![](https://github.com/zhouxiaoxiang/oriole-microservice/raw/master/docs/run.gif)
 
 ## document
 ```
@@ -82,7 +82,7 @@ class LogService(App):
 
 Run `o s` to do the same thing.
 
-![](https://github.com/zhouxiaoxiang/oriole-service/raw/master/docs/check_service.gif)
+![](https://github.com/zhouxiaoxiang/oriole-microservice/raw/master/docs/check_service.gif)
 
 ## Create docker image
 
