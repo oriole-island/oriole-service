@@ -7,7 +7,7 @@ install_requires = [
 
 setup(
     name='oriole-service',
-    version='30.1.1',
+    version='30.1.2',
     description='Rapidly create services.',
     long_description=open('README.rst').read(),
     author='Eric.Zhou',
