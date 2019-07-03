@@ -27,14 +27,6 @@ oriole\_service.app module
     :undoc-members:
     :show-inheritance:
 
-oriole\_service.cf module
--------------------------
-
-.. automodule:: oriole_service.cf
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 oriole\_service.cli module
 --------------------------
 
@@ -47,14 +39,6 @@ oriole\_service.db module
 -------------------------
 
 .. automodule:: oriole_service.db
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-oriole\_service.ext module
---------------------------
-
-.. automodule:: oriole_service.ext
     :members:
     :undoc-members:
     :show-inheritance:
